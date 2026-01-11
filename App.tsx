@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { Tournament, AppView, MainTab, WorkspaceTab } from './types';
+import { Tournament, AppView, MainTab } from './types';
 import CreateTournamentForm from './components/CreateTournamentForm';
 import ManageTournamentList from './components/ManageTournamentList';
 import TournamentWorkspace from './components/TournamentWorkspace';
