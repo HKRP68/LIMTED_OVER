@@ -651,7 +651,7 @@ const TournamentWorkspace: React.FC<TournamentWorkspaceProps> = ({ tournament, o
                
                <div className="mt-6 pt-4 border-t-2 border-dashed border-black flex justify-between items-center opacity-60">
                  <div className="mono text-[8px] uppercase font-bold">
-                   Tie-break: Points > NRR > Head-to-Head | Generated {new Date().toLocaleDateString()}
+                   Tie-break: Points &gt; NRR &gt; Head-to-Head | Generated {new Date().toLocaleDateString()}
                  </div>
                  <div className="text-right italic font-black uppercase text-[10px]">
                    CAD MANAGEMENT HUB v1.2.1
